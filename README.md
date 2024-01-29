@@ -1,1 +1,1 @@
-# ld2410
+include 2410c and bluetooth proxy services
